@@ -347,14 +347,5 @@ backend/
 - **React Flow** for the excellent node editor library
 - **Zustand** for simple state management
 
----
 
-## 📧 Contact
 
-**Karan Jangid**
-- GitHub: [@KaranJangid8656](https://github.com/KaranJangid8656)
-- Repository: [VectorShift-Frontend-Assessment](https://github.com/KaranJangid8656/VectorShift-Frontend-Assessment)
-
----
-
-**Built with ❤️ for VectorShift**
