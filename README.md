@@ -1,6 +1,6 @@
 # VectorShift Frontend Technical Assessment
 
-A modern, feature-rich pipeline editor built with React and React Flow, featuring node abstraction, dynamic text processing, and backend integration for DAG analysis.
+A modern, feature-rich pipeline editor built with React and React Flow, featuring node abstraction, dynamic text processing, and backend integration for DAG analysis
 
 ![Pipeline Editor](https://img.shields.io/badge/React-18.x-blue) ![React Flow](https://img.shields.io/badge/React%20Flow-11.x-purple) ![Status](https://img.shields.io/badge/Status-Complete-success)
 
